@@ -1,1 +1,1 @@
-This is a test commit via claude-desktop with github MCP server
+This repo is created using claude-desktop github MCP server
